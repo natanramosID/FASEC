@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+
+
+header{
+    background-color: blue;
+    padding: 5em;
+    text-align: center;
+    color: white;
+}
+#btnmulher{
+    background-color: pink;
+    padding: 1em;
+}
+#btnHomem{
+    background-color: lightblue;
+    padding: 1em;
+}
